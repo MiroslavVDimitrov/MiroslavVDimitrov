@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fff7f060.css",
-    "main.js": "/static/js/main.456b198c.js",
+    "main.css": "/static/css/main.ab823097.css",
+    "main.js": "/static/js/main.7bc74677.js",
     "static/js/787.2c7459e3.chunk.js": "/static/js/787.2c7459e3.chunk.js",
     "static/media/fibank.png": "/static/media/fibank.3b6e1cf5dfe5925cbf9b.png",
     "index.html": "/index.html",
-    "main.fff7f060.css.map": "/static/css/main.fff7f060.css.map",
-    "main.456b198c.js.map": "/static/js/main.456b198c.js.map",
+    "main.ab823097.css.map": "/static/css/main.ab823097.css.map",
+    "main.7bc74677.js.map": "/static/js/main.7bc74677.js.map",
     "787.2c7459e3.chunk.js.map": "/static/js/787.2c7459e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fff7f060.css",
-    "static/js/main.456b198c.js"
+    "static/css/main.ab823097.css",
+    "static/js/main.7bc74677.js"
   ]
 }
